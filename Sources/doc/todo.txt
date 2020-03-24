@@ -1,0 +1,19 @@
+ShootOn
+
+1. Marks on targets
+2. Shoot without record to Attemt - default exercise ?
+4. Cut-off shots after detection (by first empty frame ?)
+6. Main menu scene
+8. New scenes
+9. Laser traectory recording - analog of http://www.scatt.com
+10. UI ?
+
++1. Setting to separate class + namespace for all + old names clean-up
++2. 16x9 chessboard
++3. Camera to screen coordinates (Projector 1280x720 60Hz)
++5. Loop over targets - do action on them
++7. Timer/counter + shots recording
+
+
+
+
