@@ -1,4 +1,4 @@
-# IPSC and shotgun shooting training system
+# IPSC and shotgun training system
 
 Developed with Unity3D/C#/OpenCV.
 
