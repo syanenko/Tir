@@ -115,8 +115,8 @@ public class Shot : MonoBehaviour
 
         // Initial mode
         // DEBUG !!!
-        mode = Mode.Preview;
-        // mode = Mode.Calibrate;
+        // mode = Mode.Preview;
+        mode = Mode.Calibrate;
         // mode = Mode.Shoot;
 
         // Camera capture

@@ -15,7 +15,7 @@ public class ExerciseEditor : Editor
             ex.ShowAttempt();
         }
 
-        if (GUILayout.Button("Beging"))
+        if (GUILayout.Button("Begin"))
         {
             ex.Begin();
         }

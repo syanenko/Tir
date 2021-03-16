@@ -65,14 +65,14 @@ public class Exercise : MonoBehaviour {
     }
 
     //
-    // Beging exercise
+    // Begin exercise
     // 
     public void Begin()
     {
         if (state == State.Shooting)
             return;
 
-        Debug.Log("--- Exercise Beging: " + name);
+        Debug.Log("--- Exercise Begin: " + name);
 
         EventManager.PrepareAttempt();
         Random.InitState((int)Time.time);
