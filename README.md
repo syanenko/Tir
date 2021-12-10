@@ -1,6 +1,6 @@
 # IPSC and shotgun training system
 
-Developed with Unity3D/C#/OpenCV.
+Created with Unity3D / C# / OpenCV.
 
 Should have trating laser pistol like this one: 
 https://www.amazon.com/LaserLyte-Trainer-familiar-RESETTING-training/dp/B00PB7HLGS
